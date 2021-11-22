@@ -1,0 +1,7 @@
+D:\Systemprograms\vs\hello\rev\bin\Debug\rev.exe.config
+D:\Systemprograms\vs\hello\rev\bin\Debug\rev.exe
+D:\Systemprograms\vs\hello\rev\bin\Debug\rev.pdb
+D:\Systemprograms\vs\hello\rev\obj\Debug\rev.csproj.AssemblyReference.cache
+D:\Systemprograms\vs\hello\rev\obj\Debug\rev.csproj.CoreCompileInputs.cache
+D:\Systemprograms\vs\hello\rev\obj\Debug\rev.exe
+D:\Systemprograms\vs\hello\rev\obj\Debug\rev.pdb
